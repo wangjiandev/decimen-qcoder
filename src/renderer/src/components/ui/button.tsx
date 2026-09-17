@@ -54,6 +54,4 @@ function Button({
   )
 }
 
-// shadcn components export their variants for composition alongside the component.
-// eslint-disable-next-line react-refresh/only-export-components
 export { Button, buttonVariants }
